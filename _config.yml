@@ -14,11 +14,11 @@ markdown: kramdown
 title : TurboJack
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jackson Turvey
+  email : jturvey42@gmail.com
+  github : turbojack
+  twitter : none
+  feedburner : none
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
