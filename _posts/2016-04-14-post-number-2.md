@@ -7,4 +7,5 @@ tags: [bear]
 ---
 {% include JB/setup %}
 # This will post like crazy and read like a will the end.
-# Try to find me
+
+# Try to find me.
